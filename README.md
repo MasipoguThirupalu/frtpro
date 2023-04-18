@@ -16,8 +16,16 @@ Project Description : Best Food Quality Is Important To Us Every One Good Health
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL :
+Static Web App URL : https://ambitious-stone-054db5310.3.azurestaticapps.net
 
-App Services URL :
+App Services URL : webblogs.azurewebsites.net
 
-My Website Link: 
+My Website Link: https://ambitious-stone-054db5310.3.azurestaticapps.net
+
+## Home
+
+## About
+
+## Contact
+
+## Azure Services Used
