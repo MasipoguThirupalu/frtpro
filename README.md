@@ -18,7 +18,7 @@ Primary Azure Technology : Static Web Apps, App Service
 
 Static Web App URL : https://ambitious-stone-054db5310.3.azurestaticapps.net
 
-App Services URL : webblogs.azurewebsites.net
+App Services URL : https://webblogs.azurewebsites.net
 
 My Website Link: https://ambitious-stone-054db5310.3.azurestaticapps.net
 
