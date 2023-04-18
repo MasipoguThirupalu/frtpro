@@ -1,4 +1,8 @@
-Here I can create A Food Store Which Can Order Different Recipes And Learn Categories Of Food Available. Description: 1.Food is any substance consumed to provide nutritional support and energy to an organism. 2.It can be raw, processed or formulated and is consumed orally by animals for growth, health or pleasure. 3.Food is mainly composed of water, lipids, proteins and carbohydrates.
+A weblog is a website or section of a website that features written content, such as articles or posts, that are regularly updated by the author(s). Blogs can cover a wide range of topics and can be written in various styles, from personal diaries to news reporting to educational resources.
+
+Blogs often include features that allow readers to leave comments and engage in discussions with the author and other readers. Some blogs also include multimedia elements like photos, videos, and podcasts.
+
+Overall, blogs are a popular way for individuals and organizations to share their ideas, experiences, and expertise with a global audience through the internet.
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
