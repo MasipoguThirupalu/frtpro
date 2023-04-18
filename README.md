@@ -6,13 +6,13 @@ Web Technologies used: HTML, CSS, JS.
 
 IDE: VS-Code
 
-Industry : Lifestyle
+Industry : Ed-Tech
 
-Project Title : Foodie
+Project Title : Webblog
 
-Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+Problem Statement/Opportunity : Every One Has Different Blogs That Create Upon Their Needs.
 
-Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+Project Description : Best Websites Are Best Blogs And Content
 
 Primary Azure Technology : Static Web Apps, App Service
 
